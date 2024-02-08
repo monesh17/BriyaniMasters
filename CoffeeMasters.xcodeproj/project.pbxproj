@@ -11,6 +11,7 @@
 		D4DF627A2B739CED001D6521 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4DF62792B739CED001D6521 /* ContentView.swift */; };
 		D4DF627C2B739CF8001D6521 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D4DF627B2B739CF8001D6521 /* Assets.xcassets */; };
 		D4DF627F2B739CF8001D6521 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D4DF627E2B739CF8001D6521 /* Preview Assets.xcassets */; };
+		D4DF62862B74E723001D6521 /* Offer.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4DF62852B74E723001D6521 /* Offer.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		D4DF62792B739CED001D6521 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		D4DF627B2B739CF8001D6521 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D4DF627E2B739CF8001D6521 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		D4DF62852B74E723001D6521 /* Offer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Offer.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 				D4DF62792B739CED001D6521 /* ContentView.swift */,
 				D4DF627B2B739CF8001D6521 /* Assets.xcassets */,
 				D4DF627D2B739CF8001D6521 /* Preview Content */,
+				D4DF62852B74E723001D6521 /* Offer.swift */,
 			);
 			path = CoffeeMasters;
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D4DF62862B74E723001D6521 /* Offer.swift in Sources */,
 				D4DF627A2B739CED001D6521 /* ContentView.swift in Sources */,
 				D4DF62782B739CED001D6521 /* CoffeeMastersApp.swift in Sources */,
 			);
@@ -275,6 +279,7 @@
 				DEVELOPMENT_TEAM = N2V89X6TT6;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = BriyaniMasters;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -304,6 +309,7 @@
 				DEVELOPMENT_TEAM = N2V89X6TT6;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = BriyaniMasters;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
